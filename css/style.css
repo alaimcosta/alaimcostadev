@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto:ital,wght@0,700;1,900&display=swap" rel="stylesheet');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -111,6 +111,7 @@ body::-webkit-scrollbar-thumb:hover {
     align-items: center;
     justify-content: space-around;
     padding: 20px 0 30px 0;
+    /*border: 0.5px solid #FFFFFF; /*Provisorio, depois tirar*/
 }
 
 .conteudo-principal-escrito {
@@ -275,6 +276,28 @@ footer {
 }
 #radio3:checked ~ .navigation-auto .auto-btn3 { /* deixar o botão marcado de branco*/
     background-color: #FFFFFF;
+}
+
+.certificados{
+    width: 900px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+.certificados li {
+    display: inline-block;
+	text-align: center;
+	width: 21.5%;
+	vertical-align: top;
+	margin: 1% 1.5%;
+	padding: 10px 10px;
+	box-sizing: border-box;
+	border: 2px solid #FFFFFF;
+	border-radius: 10px;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+.certificados a{
+    color: #FFFFFF;
 }
 
 .copyright{
