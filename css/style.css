@@ -278,6 +278,8 @@ footer {
     background-color: #FFFFFF;
 }
 
+
+
 .certificados{
     width: 900px;
 	margin: 0 auto;
@@ -299,6 +301,17 @@ footer {
 .certificados a{
     color: #FFFFFF;
 }
+
+.conteudo-principal .label-formulario label:not(.conteudo-principal-formulario){ /*Aplica em todos menos no primeiro form*/
+    font-size: 15px;
+    margin: 2px 0 0 0;
+}
+
+
+.conteudo-principal input{
+    margin: 0 0 0 0;
+}
+
 
 .copyright{
     color: #FFFFFF;
