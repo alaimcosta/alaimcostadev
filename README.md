@@ -18,7 +18,7 @@ Está página web esta sendo desenvolvida para servir de portfólio de serviço 
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para acessar a página basta clicar neste <a href="https://alaimcosta.github.io/projeto-pagina-web/home.html">link</a>**
+**Para acessar a página basta clicar neste <a href="https://alaimcosta.github.io/alaimcostadev/home.html">link</a>**
 
 ## Autor
 | [<img src="https://user-images.githubusercontent.com/71519298/188052888-7d822b41-2950-4e4b-b6e7-0863dc9ef67d.jpg" width=115><br><sub>Alaim Costa</sub>](https://github.com/alaimcosta) |
